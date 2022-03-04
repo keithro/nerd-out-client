@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/nerd-out-client/static/css/main.82bcc0f5.css",
+    "main.js": "/nerd-out-client/static/js/main.80ae2052.js",
+    "static/media/nerdout.png": "/nerd-out-client/static/media/nerdout.984b2f4876ed96d77435.png",
+    "index.html": "/nerd-out-client/index.html",
+    "main.82bcc0f5.css.map": "/nerd-out-client/static/css/main.82bcc0f5.css.map",
+    "main.80ae2052.js.map": "/nerd-out-client/static/js/main.80ae2052.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82bcc0f5.css",
+    "static/js/main.80ae2052.js"
+  ]
+}
